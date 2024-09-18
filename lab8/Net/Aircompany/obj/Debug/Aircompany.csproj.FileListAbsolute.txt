@@ -1,0 +1,7 @@
+D:\институт\6-й семестр\Тестирование программного обеспечения\aircompany-master\Net\Aircompany\bin\Debug\Aircompany.exe.config
+D:\институт\6-й семестр\Тестирование программного обеспечения\aircompany-master\Net\Aircompany\bin\Debug\Aircompany.exe
+D:\институт\6-й семестр\Тестирование программного обеспечения\aircompany-master\Net\Aircompany\bin\Debug\Aircompany.pdb
+D:\институт\6-й семестр\Тестирование программного обеспечения\aircompany-master\Net\Aircompany\obj\Debug\Aircompany.csproj.AssemblyReference.cache
+D:\институт\6-й семестр\Тестирование программного обеспечения\aircompany-master\Net\Aircompany\obj\Debug\Aircompany.csproj.CoreCompileInputs.cache
+D:\институт\6-й семестр\Тестирование программного обеспечения\aircompany-master\Net\Aircompany\obj\Debug\Aircompany.exe
+D:\институт\6-й семестр\Тестирование программного обеспечения\aircompany-master\Net\Aircompany\obj\Debug\Aircompany.pdb
